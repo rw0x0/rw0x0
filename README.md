@@ -1,6 +1,6 @@
 ### Biography
 
-I am a co-founder of [TACEO GmbH](https://www.taceo.io/), researcher in cryptography, and Ph.D. student at Graz University of Technology. Before this, I completed my BSc and Dipl.-Ing. (equivalent to MSc) in computer engineering at TU Graz, with a focus on IT-Security. My main research interests include privacy enhancing technologies (FHE, MPC, ZKP), domain-specific symmetric primitives, and their application to real-world use cases.
+I am a cryptographer and co-founder at [TACEO GmbH](https://www.taceo.io/). Before that I obtained my [PhD](https://github.com/rw0x0/PhD) in Cryptography at Graz University of Technology. My main research interests include privacy enhancing technologies (FHE, MPC, ZKP), domain-specific symmetric primitives, and their application to real-world use cases.
 
 Find more information about myself, my research, talks, and publications on my personal website [rwalch.at](https://rwalch.at/).
 
